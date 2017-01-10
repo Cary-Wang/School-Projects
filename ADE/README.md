@@ -1,4 +1,4 @@
-<u><b>Concepts Applied:</b></u>
+<b>Concepts Applied:</b>
   - <b> Sandy Rat Sightings:</b> 
       - Merging datasets
       - Summary statistics
