@@ -1,0 +1,12 @@
+Concepts Applied:
+  - <b> Sandy Rat Sightings:</b> 
+      - Merging datasets
+      - Summary statistics
+      - Data visualization (mapping)
+      - Logistic regression
+  - <b>News Analytics:</b>
+      - Natural language processing
+          - Topic model classifiers
+          - Text cleaning
+          - Data visualization (wordclouds)
+      - Web scrapping
