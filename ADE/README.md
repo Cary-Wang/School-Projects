@@ -5,8 +5,29 @@ Concepts Applied:
       - Data visualization (mapping)
       - Logistic regression
   - <b>News Analytics:</b>
+      - Machine learning
+          - Topic model classifier
       - Natural language processing
-          - Topic model classifiers
           - Text cleaning
           - Data visualization (wordclouds)
       - Web scrapping
+  - <b>Baby Names:</b>
+      - Data visualization
+      - Exploratory analysis
+  - <b>Yelp Reviews:</b>
+      - Machine learning
+          - Logistic regression classifier
+      - Natural language processing
+          - N-gram models
+          - Text cleaning
+          - Data visualization (wordclouds)
+  - <b>Lending Club:</b>
+      - Machine learning
+          - Logistic regression classifier
+          - Classification tree
+  - <b>Final Project:</b>
+      - Merging datasets
+      - Data cleaning
+      - Data visualization
+      - Web scraping
+      - Multivariate regression
