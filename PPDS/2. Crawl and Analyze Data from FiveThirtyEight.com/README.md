@@ -1,4 +1,4 @@
-Instructions
+<b>Instructions</b>
 
 Your goal in this project is to use XPath and regular expressions to fetch data from the website fivethirtyeight.com, put the data in a Python Pandas dataframe, and then visualize the results.
 
